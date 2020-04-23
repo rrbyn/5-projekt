@@ -6,7 +6,7 @@
         "keskkond": "environment",
         "allikas (kust otsida)": "source",
         "tarkvara": "software",
-        "desktop    ": "töölaud",
+        "töölaud": "desktop    ",
         "armatuurlaud": "dashboard",
         "graafik": "chart",
         "kaasa arvama, sisaldama": "include"
