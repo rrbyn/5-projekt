@@ -1,5 +1,5 @@
 {
-    "linux commands": {
+    "data": {
         "sisukorra kuvamine": "ls",
         "uuenduste paigaldamine": "apt-get upgrade",
         "uuenduste otsing": "apt-get update",
@@ -13,6 +13,8 @@
         "omaniku muutmine": "Chown"
     },
     "meta":{
-        "küsimus": "Mis on vaja kirjutada, et *"
+        "küsimus": "Mis on vaja kirjutada, et saada *",
+        "vastused": 5,
+        "Pealkiri": "Linuxi käsud"
     }
 }

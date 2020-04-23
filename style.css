@@ -1,3 +1,78 @@
+
+body{
+    background-image: url(https://images.pexels.com/photos/807598/pexels-photo-807598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    background-size: cover;
+    text-align: center;
+    padding: 20px;
+    
+   
+}
+#header {
+    margin: 20px;
+    width: 500px;
+    display: flex;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 144px;
+    line-height: 169px;
+    background: #B1E889;
+    border-radius: 25px;
+ 
+}
+/*#header  .flex-container{
+    display:flex;
+    justify-content:center;
+    height: 200px;
+    align-items: center;
+    background: #B1E889
+}
+*/
+
+.flex-container{
+    margin:20px;
+    display:flex;
+    justify-content:center;
+    height: 200px;
+    align-items: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 144px;
+    line-height: 169px;
+    color: #000000;
+    background: #B1E889;
+    
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.btn btn-primary dropdown-toggle {
+ background-color:#B1E889;
+ border-radius: 25px;
+}
+  
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #B1E889;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+    text-align: center;
+    list-style-type: none;
+    border-radius: 10px;
+  }
+
+  
+.dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+
 #container{
     display:flex;
     flex-direction: column;
@@ -7,26 +82,47 @@
 
 #question{
     font-size: 48px;
+    color: rgb(255, 255, 255);
+    padding: 30px;
 }
 
 
 #answer-area{
-    margin: 24px;
-    padding:12px;
-    font-size: 14px;
+    margin: 50px;
+    padding:20px;
+    font-size: 48px;
+    text-align: center;
     width: 420px;
     height: 120px;;
 }
 
 #correct{
-    color: green;
-    font-size: 24px;
+    color: rgb(0, 255, 0);
+    font-size: 48px;
 
 }
 #incorrect{
-    color: red;
-    font-size: 24px;
-    font-family: bold;
-    
-    
+    color: rgb(255, 0, 0);
+    font-size: 48px;
+    font-family: bold; 
+}
+#timer{
+color:limegreen;
+font-size: larger;
+font-size: 48px;
+}
+#progress{
+color: rgb(0, 255, 242);
+font-size: large;
+font-size: 48px;
+}
+#feedback{
+color:rgb(255, 255, 255);
+font-weight: bold;
+font-style: normal;
+font-size: 24px;
+}
+#title{
+    font-size: 48px;
+    color: white;
 }
