@@ -80,7 +80,9 @@ body{
 }
 
 #question{
-    font-size: 24px;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    padding-top: 20px;
 }
 
 
@@ -93,23 +95,27 @@ body{
 }
 
 #correct{
-    color: green;
+    color: rgb(0, 255, 0);
     font-size: 24px;
 
 }
 #incorrect{
-    color: red;
+    color: rgb(255, 0, 0);
     font-size: 24px;
     font-family: bold; 
 }
 #timer{
-
+color:limegreen;
+font-size: larger;
 }
 #progress{
-
+color: rgb(0, 255, 242);
+font-size: large;
 }
 #feedback{
-
+color:rgb(255, 255, 255);
+font-weight: bold;
+font-style: normal;
 }
 #title{
     font-size: 48px;
