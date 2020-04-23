@@ -12,8 +12,8 @@ _Liikmed:_
 Erki Tammeaid TAK-19  
             Merike Toose TA-18  
             Siivi Pahapill TA-18  
-            Mikk Lehtsaar TA-19  
-            Gert Indrek Poljakov TAK-19  
+            Mikk Lehtsaar TAK-18  
+            Gert Indrek Poljakov TAK-17  
             Arno Kosk TAK-19  
             
 ## Projekti lähteülesanne
