@@ -5,12 +5,14 @@ const timerDiv = document.getElementById('timer')
 const questionDiv = document.getElementById('question')
 const progressDiv = document.getElementById('progress')
 const titleDiv = document.getElementById('title')
-
+const e = document.getElementById("dropdown-content")
 //Tegeleb .json file valimisega
 
 
 // See muutuja otsustab milliseid küsimusi kasutada
-var selectedJson = "citys"
+
+selectedJson = (location.search).substring(1)
+
 var correct = 0
 getinfo()
 
@@ -23,12 +25,16 @@ setInterval(() => {
     timerDiv.innerText = minutes + ":" + seconds 
 }, 1000);
 
+
+
+
 function getinfo(){
     fetch('./json/' + selectedJson + '.json')
         .then((response) => {
         return response.json()
       })
       .then((data) => {
+       
         selectedData = data.data
         max = Object.keys(selectedData).length
         question = Object.values(data.meta)[0]
@@ -46,6 +52,9 @@ function getinfo(){
     
       });
     }
+
+
+
 answerArea.focus()
 answerArea.addEventListener('keydown', event => {
   console.log(event.keyCode)

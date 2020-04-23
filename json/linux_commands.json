@@ -13,7 +13,8 @@
         "omaniku muutmine": "Chown"
     },
     "meta":{
-        "küsimus": "Mis on vaja kirjutada, et *",
-        "vastused": 5
+        "küsimus": "Mis on vaja kirjutada, et saada *",
+        "vastused": 5,
+        "Pealkiri": "Linuxi käsud"
     }
 }
