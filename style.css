@@ -71,9 +71,6 @@ body{
     display: block;
   }
 
-*{
-    background: whitesmoke;
-}
 
 #container{
     display:flex;
