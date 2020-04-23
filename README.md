@@ -32,7 +32,7 @@ Tuupur on loodud erinevate teemade õppimiseks ehk pigem teadmiste kinnistamisek
 Ideid saab ajapikku edasi arendada sobivas suunas. Lisada uusi aineid ja uusi õppetükke.
 Esialgses versioonis on lisatud võimalused inglise keele (sõnad), geograafia (riikide pealinnad) ja linuxi käskude meelde jätmiseks.
 
-[Tuupurid]()
+[Tuupurid](https://tuupurid.ta18pahapill.itmajakas.ee/)
 
 
             
