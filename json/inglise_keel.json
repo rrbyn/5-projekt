@@ -12,6 +12,8 @@
         "kaasa arvama, sisaldama": "include"
     },
     "meta": {
-        "küsimus": "tõlgi inglise keelde sõna - *"
+        "küsimus": "tõlgi inglise keelde sõna - *",
+        "vastused": 5,
+        "pealkiri": "Inglise Keel"
     }
 }

@@ -1,5 +1,5 @@
 {
-"citys": {
+"data": {
         "USA": "Washington",
         "Hiina": "Peking", 
         "Kanada": "Ottawa",
@@ -12,8 +12,9 @@
         "Hispaania": "Madrid"
     },
 "meta": {
-    "küsimus": "Mis on * pealinn",
-    "nimi": "citys"
+    "küsimus": "Mis on * pealinn?",
+    "vastused": 5,
+    "pealkiri": "Pealinnad"
     }   
 
 

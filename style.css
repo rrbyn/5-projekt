@@ -1,3 +1,7 @@
+*{
+    background: whitesmoke;
+}
+
 #container{
     display:flex;
     flex-direction: column;
@@ -6,7 +10,7 @@
 }
 
 #question{
-    font-size: 48px;
+    font-size: 24px;
 }
 
 
@@ -26,7 +30,17 @@
 #incorrect{
     color: red;
     font-size: 24px;
-    font-family: bold;
-    
-    
+    font-family: bold; 
+}
+#timer{
+
+}
+#progress{
+
+}
+#feedback{
+
+}
+#title{
+    font-size: 48px;
 }
