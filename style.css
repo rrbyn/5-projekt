@@ -16,6 +16,7 @@ body{
     font-size: 144px;
     line-height: 169px;
     background: #B1E889;
+    border-radius: 25px;
  
 }
 /*#header  .flex-container{
@@ -40,14 +41,17 @@ body{
     line-height: 169px;
     color: #000000;
     background: #B1E889;
-   
+    
 }
 
 .dropdown {
     position: relative;
     display: inline-block;
 }
- 
+.btn btn-primary dropdown-toggle {
+ background-color:#B1E889;
+ border-radius: 25px;
+}
   
 .dropdown-content {
     display: none;
@@ -59,6 +63,7 @@ body{
     z-index: 1;
     text-align: center;
     list-style-type: none;
+    border-radius: 10px;
   }
   
 .dropdown:hover .dropdown-content {
