@@ -1,0 +1,21 @@
+{
+"data": {
+        "USA": "Washington",
+        "Hiina": "Peking", 
+        "Kanada": "Ottawa",
+        "Austraalia": "Canberra",
+        "Kolumbia": "Bogota",
+        "Brasiilia": "Brasilia",
+        "Peruu": "Lima",
+        "Sambia": "Lusaka",
+        "Angoola": "Luanda",
+        "Hispaania": "Madrid"
+    },
+"meta": {
+    "küsimus": "Mis on * pealinn?",
+    "vastused": 5,
+    "pealkiri": "Pealinnad"
+    }   
+
+
+}

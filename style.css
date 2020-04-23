@@ -1,3 +1,4 @@
+
 body{
     background-image: url(https://images.pexels.com/photos/807598/pexels-photo-807598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
     background-size: cover;
@@ -69,3 +70,50 @@ body{
 .dropdown:hover .dropdown-content {
     display: block;
   }
+
+*{
+    background: whitesmoke;
+}
+
+#container{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 24px;
+}
+
+#question{
+    font-size: 24px;
+}
+
+
+#answer-area{
+    margin: 24px;
+    padding:12px;
+    font-size: 14px;
+    width: 420px;
+    height: 120px;;
+}
+
+#correct{
+    color: green;
+    font-size: 24px;
+
+}
+#incorrect{
+    color: red;
+    font-size: 24px;
+    font-family: bold; 
+}
+#timer{
+
+}
+#progress{
+
+}
+#feedback{
+
+}
+#title{
+    font-size: 48px;
+}
