@@ -1,0 +1,18 @@
+{
+    "linux commands": {
+        "sisukorra kuvamine": "ls",
+        "uuenduste paigaldamine": "apt-get upgrade",
+        "uuenduste otsing": "apt-get update",
+        "installeerimine": "apt-get install",
+        "kataloogi muutmine": "cd",
+        "vaba kettaruum": "df",
+        "manuaal ehk info": "man",
+        "otsingukäsk": "slocate",
+        "kopeerimine": "cp",
+        "õiguste muutmine": "chmod",
+        "omaniku muutmine": "Chown"
+    },
+    "meta":{
+        "küsimus": "Mis on vaja kirjutada, et *"
+    }
+}

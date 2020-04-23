@@ -1,0 +1,17 @@
+{
+    "inglise keel": {
+        "peakasutaja, omanik, ka juur": "root",
+        "kataloog, nimistu": "directory",
+        "muutuja": "variable",
+        "keskkond": "environment",
+        "allikas (kust otsida)": "source",
+        "tarkvara": "software",
+        "desktop    ": "töölaud",
+        "armatuurlaud": "dashboard",
+        "graafik": "chart",
+        "kaasa arvama, sisaldama": "include"
+    },
+    "meta": {
+        "küsimus": "tõlgi inglise keelde sõna - *"
+    }
+}
