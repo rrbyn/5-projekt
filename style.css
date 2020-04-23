@@ -1,14 +1,17 @@
 body{
-    background-color: aqua;
+    background-image: url(Background.png);
     text-align: center;
-    padding: 20px;
     
 }
 
 #header {
-    padding: 15px;
-    margin: 15px;
-    font-size: 24px;
+
+  align-items:;
+  width: 590px;
+  background-color: limegreen;
+  padding: 15px;
+  margin: 15px;
+  font-size: 24px;
 }
 .dropdown {
     position: relative;
