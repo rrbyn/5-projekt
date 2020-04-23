@@ -30,7 +30,7 @@ käsurea käsud, programmeerimiskeele võtmesõnad või konstruktsioonid jne.
 
 Tuupur on loodud erinevate teemade õppimiseks ehk pigem teadmiste kinnistamiseks ehk maakeeli tuupimiseks. 
 Ideid saab ajapikku edasi arendada sobivas suunas. Lisada uusi aineid ja uusi õppetükke.
-Esialgses versioonis on lisatud võimalused iniglise keele (sõnad), geograafia (riikide pealinnad) ja linuxi käskude meelde jätmiseks.
+Esialgses versioonis on lisatud võimalused inglise keele (sõnad), geograafia (riikide pealinnad) ja linuxi käskude meelde jätmiseks.
 
 [Tuupurid]()
 
